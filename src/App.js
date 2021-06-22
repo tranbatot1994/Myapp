@@ -6,9 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Dfinity Việt Nam
-        </p>
+        <a href="https://www.facebook.com/groups/dfinity">Dfinity Việt Nam</a>
         
       </header>
     </div>
