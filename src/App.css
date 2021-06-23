@@ -14,18 +14,20 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-image: url("anhnen.png");
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: rgb(5, 255, 17);
 }
-
+.p {
+  color:lavender
+}
 .App-link {
-  color: #61dafb;
+  color: #c7ff2c;
 }
 
 @keyframes App-logo-spin {
