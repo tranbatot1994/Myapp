@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Tham gia nhóm cộng đồng Facebook
+          Tham gia cộng đồng DFINITY
         </p>
         <a
           className="App-link"
@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Dfinity Việt Nam
+         Nhóm Facebok
         </a>
         <a
           className="App-link"
