@@ -5,10 +5,15 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+<<<<<<< HEAD
       <img src={logo} className="App-logo" alt="logo" />
         <p>
           Nhóm Facebook cộng đồng
         </p> 
+=======
+        <img src={logo} className="App-logo" alt="logo" />
+        <a href="https://www.facebook.com/groups/dfinity">Dfinity Việt Nam</a>
+>>>>>>> 9a473ff77f18cc82892c8e4e5611be5f6cb599c8
         
         <a
           className="App-link"

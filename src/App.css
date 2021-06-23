@@ -14,7 +14,11 @@
 }
 
 .App-header {
+<<<<<<< HEAD
   background-image: url("anhnen.png");
+=======
+  background-color: #fdff56;
+>>>>>>> 9a473ff77f18cc82892c8e4e5611be5f6cb599c8
   min-height: 100vh;
   display: flex;
   flex-direction: column;
