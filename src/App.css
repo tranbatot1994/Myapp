@@ -14,24 +14,21 @@
 }
 
 .App-header {
-<<<<<<< HEAD
   background-image: url("anhnen.png");
-=======
-  background-color: #fdff56;
->>>>>>> 9a473ff77f18cc82892c8e4e5611be5f6cb599c8
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: rgb(5, 255, 17);
+  font-size: calc(15px + 2vmin);
+  color: rgb(251, 255, 37);
+  font-weight: bold;
 }
 .p {
   color:lavender
 }
 .App-link {
-  color: #c7ff2c;
+  color: #4fe8fc;
 }
 
 @keyframes App-logo-spin {
