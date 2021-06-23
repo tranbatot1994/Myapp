@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         Nhóm Facebok
+         Nhóm Facebook
         </a>
         <a
           className="App-link"
